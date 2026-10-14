@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.pytest_cache/
+.hypothesis/
+
+# Env (example is tracked at repo root policy; local secrets never)
+.env
+
+# OS / logs
+.DS_Store
+*.log
+nohup.out
+
+# Runtime-generated (regenerable via app)
+/app/data/sos.json
+/app/data/risk_ml_model.pkl

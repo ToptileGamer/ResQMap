@@ -1,0 +1,112 @@
+[
+  {
+    "event_id": "EVT-01",
+    "center_lat": 12.896013036016116,
+    "center_lng": 77.5213334270915,
+    "radius_km": 6.2834101444274735,
+    "peak_rain_mm": 51.61224312271698,
+    "max_depth_m": 2.4411958477198383,
+    "duration_h": 17,
+    "year": 2015,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-02",
+    "center_lat": 12.978531933955887,
+    "center_lng": 77.56915104379333,
+    "radius_km": 3.88704908226094,
+    "peak_rain_mm": 35.477184242668336,
+    "max_depth_m": 1.5881722157610907,
+    "duration_h": 21,
+    "year": 2016,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-03",
+    "center_lat": 12.892108386114717,
+    "center_lng": 77.6365970452379,
+    "radius_km": 6.759084622501717,
+    "peak_rain_mm": 89.37200032156362,
+    "max_depth_m": 0.7696757102019898,
+    "duration_h": 6,
+    "year": 2017,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-04",
+    "center_lat": 13.04774424054826,
+    "center_lng": 77.72365839632177,
+    "radius_km": 3.77660756048632,
+    "peak_rain_mm": 88.68142495631962,
+    "max_depth_m": 1.659704524279481,
+    "duration_h": 23,
+    "year": 2018,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-05",
+    "center_lat": 12.859686406343862,
+    "center_lng": 77.49425352769171,
+    "radius_km": 4.293317611346309,
+    "peak_rain_mm": 81.10918040676268,
+    "max_depth_m": 1.3295364581690499,
+    "duration_h": 10,
+    "year": 2019,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-06",
+    "center_lat": 12.983338375354917,
+    "center_lng": 77.61830105030184,
+    "radius_km": 7.640236371274256,
+    "peak_rain_mm": 78.86717572010721,
+    "max_depth_m": 1.634750829222043,
+    "duration_h": 21,
+    "year": 2020,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-07",
+    "center_lat": 12.964150527489291,
+    "center_lng": 77.54608707447761,
+    "radius_km": 7.8205037714947006,
+    "peak_rain_mm": 61.0536221319406,
+    "max_depth_m": 1.1467212363902137,
+    "duration_h": 18,
+    "year": 2021,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-08",
+    "center_lat": 12.989038418512347,
+    "center_lng": 77.52966975905962,
+    "radius_km": 4.961612163331303,
+    "peak_rain_mm": 73.51984883185034,
+    "max_depth_m": 1.1158956169272733,
+    "duration_h": 18,
+    "year": 2022,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-09",
+    "center_lat": 13.086719645774272,
+    "center_lng": 77.69226677533577,
+    "radius_km": 6.384213594372628,
+    "peak_rain_mm": 76.15801435133285,
+    "max_depth_m": 0.8781362405239825,
+    "duration_h": 17,
+    "year": 2023,
+    "source": "simulated-historical"
+  },
+  {
+    "event_id": "EVT-10",
+    "center_lat": 13.081105464785164,
+    "center_lng": 77.49763553344462,
+    "radius_km": 5.886502930690129,
+    "peak_rain_mm": 77.79601782806988,
+    "max_depth_m": 0.6864116051289759,
+    "duration_h": 17,
+    "year": 2024,
+    "source": "simulated-historical"
+  }
+]

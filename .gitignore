@@ -1,0 +1,59 @@
+# ── ResQMap root .gitignore ──────────────────────────────
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+nohup.out
+/tmp/
+
+# ── Python (backend) ──
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+pyvenv.cfg
+.env/
+.pytest_cache/
+.hypothesis/
+*.pkl
+
+# ── Node (frontend) ──
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Env files (keep the examples) ──
+.env
+!.env.example
+backend/.env
+frontend/.env
+
+# ── Runtime-generated data (regenerable, do not commit) ──
+# Real user SOS reports (per-deployment data, may contain PII)
+backend/app/data/sos.json
+# Trained ML model cache (auto-retrains on first /risk call)
+backend/app/data/risk_ml_model.pkl
+
+# ── Audit / demo artifacts ──
+audit/screenshots/
+
+# ── Editors & tooling ──
+.vscode/
+.idea/
+.freebuff/
+
+implement.txt
+plan.txt
+report.txt
+requirementss.txt
+s1s2.txt
+changes.txt
+audit.md

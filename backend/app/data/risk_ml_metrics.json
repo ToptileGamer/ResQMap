@@ -1,0 +1,49 @@
+{
+  "accuracy": 0.769,
+  "precision": 0.3818,
+  "recall": 0.4048,
+  "roc_auc": 0.6306,
+  "confusion_matrix": [
+    [
+      1244,
+      217
+    ],
+    [
+      197,
+      134
+    ]
+  ],
+  "feature_importances": {
+    "rainfall": 0.1189,
+    "elevation": 0.2034,
+    "slope": 0.0578,
+    "river_dist": 0.0511,
+    "road_access": 0.1397,
+    "population": 0.0961,
+    "hist_freq": 0.0913,
+    "hist_depth": 0.0742,
+    "cv_prob": 0.1153,
+    "sensor_trend": 0.0,
+    "sensor_rain": 0.026,
+    "alert_prox": 0.0261
+  },
+  "train_events": [
+    "EVT-01",
+    "EVT-02",
+    "EVT-03",
+    "EVT-04",
+    "EVT-05",
+    "EVT-06",
+    "EVT-07",
+    "EVT-08"
+  ],
+  "test_events": [
+    "EVT-09",
+    "EVT-10"
+  ],
+  "n_train": 7168,
+  "n_test": 1792,
+  "seed": 20261014,
+  "source": "simulated-historical",
+  "generated_at": "2026-10-14T15:57:40.976362+00:00"
+}
